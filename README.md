@@ -120,16 +120,3 @@ GET http://localhost:5000/api/reviews?page=http://example.com/product
   ]
 }
 ```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to the developers of Flask, Selenium, Streamlit, and other libraries used in this project.
-- Special thanks to the Gemini API team for providing the generative AI capabilities that enhance the scraping process.
